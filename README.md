@@ -8,7 +8,7 @@ Xây dựng Website Quảng bá Du lịch Biển Ba Động.
 - Họ và tên: Lê Thị Hoài Linh
 - Lớp: DX23TT9
 - Môn học: Lập trình ASP.NET
-- Giảng viên hướng dẫn: Đoàn Thanh An
+- Giảng viên hướng dẫn: TS. Nguyễn Nhứt Lam
 
 ---
 
